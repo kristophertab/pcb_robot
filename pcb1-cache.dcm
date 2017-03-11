@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HL293D
+F http://www.ti.com/lit/ds/symlink/l293.pdf
+$ENDCMP
+#
+#End Doc Library

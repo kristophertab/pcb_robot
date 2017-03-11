@@ -1,0 +1,28 @@
+inverter schmitta 74LVC1G14
+
+transoptor - tx linia uart
+
+http://kicad.rohrbacher.net/quicklib.php
+
+http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm
+
+stabilizator lm1117
+
+
+elementy smd 0805 - RLC
+
+zlacze wejsciowe zasilania ARK 5mm raster
+
+goldpin 2.54mm raster
+
+SWD dolozyc + podlaczenie - zlacze IDC6
+	swd: seriwal wire debug interface, 2 piny do komunikacji: SWCLK (PD, 10k-100k) SWDIO (PU 10k-100k)+ 2 piny zasilania zasilanie (Cap 100nF). Jest jeszcze SWV (PU 10k-100k) ale zazwyczaj pomijany
+
+
+ark zlacze silniki
+
+topologia gwiazdy - laczenie mas
+
+estetyka (po pcb, nrst r za kondensatorem i przyciskiem, a one do masy jak elektryczne; podział na części (większa kartka), swd, uart na labelkach, wncodery jako wejscia, piny w zasilaniu jako zasilanie (nie etykiety)
+
+kondesaorty zmień!
